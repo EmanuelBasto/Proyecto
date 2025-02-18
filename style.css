@@ -11,7 +11,7 @@
     box-sizing: border-box;
 }
 /* Variables*/
-:root{
+:root{ 
  --main-color:#d90429 ;
  --text-color: #020102;
  --bg-color: #fff;
